@@ -2,6 +2,10 @@
 
 Hosted URL: https://udaan-frontend-amresh.vercel.app
 
+Routes:
+- FMCG Component: "/"
+- Stretch Goal: "/credit-pay"
+
 # Usage
 
 Run the commands in order to launch the dev mode of the website
